@@ -1,0 +1,6 @@
+Y:\webtuto\C#Revision\TestforProject\TestForProject\JobPortal_Models\bin\Debug\JobPortal_Models.dll
+Y:\webtuto\C#Revision\TestforProject\TestForProject\JobPortal_Models\bin\Debug\JobPortal_Models.pdb
+Y:\webtuto\C#Revision\TestforProject\TestForProject\JobPortal_Models\obj\Debug\JobPortal_Models.csprojAssemblyReference.cache
+Y:\webtuto\C#Revision\TestforProject\TestForProject\JobPortal_Models\obj\Debug\JobPortal_Models.csproj.CoreCompileInputs.cache
+Y:\webtuto\C#Revision\TestforProject\TestForProject\JobPortal_Models\obj\Debug\JobPortal_Models.dll
+Y:\webtuto\C#Revision\TestforProject\TestForProject\JobPortal_Models\obj\Debug\JobPortal_Models.pdb
